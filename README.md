@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **BlockChain , MERN, ML/AI**
 
-- 📫 How to reach me **sunrise96208@gmail.com**
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
